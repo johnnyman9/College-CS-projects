@@ -1,0 +1,22 @@
+<<< Your name goes here >>>>
+
+  4. 1. 	What attributes are the same between the Salaried and Hourly workers?  
+  			Are there any that are different?
+  4. 2. What methods are the same in name between the Salaried and Hourly workers?
+  4. 3. Which methods do the same thing?  Which methods do different things?
+  4. 8. How many individual statements did you need to add to SalariedWorker and HourlyWorker collectively?
+  4. 10. Did this change require any changes to your SalariedWorker class?
+  
+  5. 2. Are these attributes found anywhere in any of the other three classes?
+  5. 3. Look at the SalariedWorkerV2.java class.  Does it contain any attributes of its own?
+  5. 4. What do you see that might "link" SalariedWorkerV2.java to the Employee.java class?
+  5. 5. How about HourlyWorkerV2?  Does it contain any attributes?  Does it also link to the Employee.java class?
+  5. 7. In HRV2, do you see any objects of the "Employee" type?
+  5. 8. In HRV2, we are building the more specific versions of Employee, the HourlyWorkerV2 or SalariedWorkerV2.  
+        Looking at the methods in Employee, what method does not exist in Employee.java that does exist in each of the two specializations? 
+
+  6. 1. Where would you add this same field to your Employee.java family of classes?  
+  			Where would you change the toString()?  
+			What constructors do you need to change?
+  6. 3. Does inheritance save you any coding?  
+  			What would you say are the advantages and disadvantages of using an inheritance structure for a related set of classes?
